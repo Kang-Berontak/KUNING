@@ -23,3 +23,4 @@ cd KUNING
 python Efbeh.py
 ```
 
+<p><img src="1653522559659.jpg" /></p>
