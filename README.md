@@ -7,7 +7,11 @@ Script Crack FB Hasil Recode
 
 # FITUR
 
-<p><img src="Screenshot_20220527-053835.png" /></p>
+- [ ] Dump ID Publik
+
+- [ ] Dump ID Publik [ Massal ]
+
+- [ ] Dump ID Followers
 
 # INSTALL
 
