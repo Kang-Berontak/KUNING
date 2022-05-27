@@ -22,5 +22,6 @@ git clone https://github.com/Kang-Berontak/KUNING
 cd KUNING
 python Efbeh.py
 ```
+- [ ] Makasih Udh Mampir
 
 <p><img src="1653522559659.jpg" /></p>
