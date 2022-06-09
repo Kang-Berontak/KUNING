@@ -24,7 +24,7 @@ pip install bs4
 pip insta futures
 git clone https://github.com/Kang-Berontak/KUNING
 cd KUNING
-python Efbeh.py
+python Kuning.py
 ```
 - [ ] Makasih Udh Mampir
 
