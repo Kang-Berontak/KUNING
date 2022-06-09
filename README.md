@@ -21,7 +21,7 @@ pkg install python
 pkg install git
 pip install requests
 pip install bs4
-pip insta futures
+pip install futures
 git clone https://github.com/Kang-Berontak/KUNING
 cd KUNING
 python Kuning.py
